@@ -1,4 +1,4 @@
-# React Dashboard Template
+# React Snowpack Setup
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
